@@ -1,5 +1,6 @@
 #!/bin/sh
 # install - install a program, script, or datafile
+npm install @mui/material @emotion/react @emotion/styled recharts react-router-dom
 
 scriptversion=2023-11-23.18; # UTC
 
