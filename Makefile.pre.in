@@ -1,4 +1,5 @@
-# Top-level Makefile for Python
+# npm install @mui/material @emotion/react @emotion/styled recharts react-router-dom
+Top-level Makefile for Python
 #/configure
 # As distributed, this file is called Makefile.pre.in; it is processed
 # into the real Makefile by running the script ./configure, which
