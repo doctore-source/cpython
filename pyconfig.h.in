@@ -1,5 +1,6 @@
 /* pyconfig.h.in.  Generated from configure.ac by autoheader.  */
-
+make
+make install
 
 #ifndef Py_PYCONFIG_H
 #define Py_PYCONFIG_H
